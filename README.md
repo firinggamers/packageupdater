@@ -5,5 +5,6 @@ simple linux bash script that i made to update packages in debian and centos
 this is my first bash script and im bad at it im learning and improving it.
 
 # HOW TO USE 
+Well you can run this script as root user and it does the work automatically
 
 ```bash <(curl -s https://raw.githubusercontent.com/firinggamers/packageupdater/main/updater.sh)```
