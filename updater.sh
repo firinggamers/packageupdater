@@ -36,7 +36,7 @@ if [[ $APT_GET_CMD ]]; then
      
      sleep 3
 
-     echo "THANK YOU FOR USING MY SCRIPT" | toilet -f term -F border --gay
+     echo "THANK YOU FOR USING MY SCRIPT"
 
      exit 1;
 
